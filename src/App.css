@@ -1,7 +1,49 @@
 .App {
-  text-align: right;
 }
 
+
+div{
+  background-color: rgb(131, 201, 183);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{font-weight: 300;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgba(252, 57, 57, 0.849);
+}
+h2{font-weight: 300;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(66, 118, 230);
+}
+
+.mylist{
+  text-align: inherit;
+}
+
+
+.mylist ul{
+  display: inline;
+   
+ }
+ .mylist ol{
+  display: inline-block;
+   
+ }
+ .mylist li{
+  text-align: start;
+   
+ }
+
+ footer{
+   font-size: 2em;
+   text-align: center;
+   color: rgb(18, 43, 182);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+ }
+ 
 
 
 
