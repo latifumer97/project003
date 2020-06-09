@@ -9,9 +9,9 @@ function App() {
 
       <header><h1>Assignmet#3</h1></header>
     Hello UMER <br />
-    Name="SM UmerLatif"<br />
-    Age="23<br />
-    skill="Web development"
+    Name=SM UmerLatif<br />
+    Age=23<br />
+    skill=Web development
     15+8={15 + 8}
 
 
